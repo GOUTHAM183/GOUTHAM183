@@ -12,13 +12,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GOUTHAM183/](https://github.com/GOUTHAM183/)
 
-- 📝 My PortFolio [https://www.gouthammukunda.com/](https://www.gouthammukunda.com/)
-
 - 💬 Ask me about **Python, Java, Django, Machine Learning, Web Dev**
 
 - 📫 How to reach me **gouthammukunda18@gmail.com**
-
-- 📄 Know about my experiences [https://www.gouthammukunda.com/static/blog/Goutham_Mukunda%20-%20Resume.pdf](https://www.gouthammukunda.com/static/blog/Goutham_Mukunda%20-%20Resume.pdf)
 
 - ⚡ Fun fact **Bit of a Nerd**
 
